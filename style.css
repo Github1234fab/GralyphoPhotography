@@ -264,8 +264,8 @@ footer {
                 margin-top: 300px;
         }
         .imageA {
-                background-image: url("./assets/Shooting\ LANA\ niveaux\ remonté\ .jpg");
-                background-size: cover;
+                background-image: url("./assets/Lana.jpg");
+                background-size: 140%;
                 background-position: center;
                 background-repeat: no-repeat;
                 height: 600px;
@@ -273,7 +273,7 @@ footer {
         }
         .imageB {
                 background-image: url("./assets/book\ low-key.jpg");
-                background-size: cover;
+                background-size: 140%;
                 background-position: center;
                 background-repeat: no-repeat;
                 height: 600px;
@@ -281,7 +281,7 @@ footer {
         }
         .imageC {
                 background-image: url("./assets/VTT\ course.png");
-                background-size: cover;
+                background-size: 160%;
                 background-position: center;
                 background-repeat: no-repeat;
                 height: 600px;
@@ -289,7 +289,7 @@ footer {
         }
         .imageD {
                 background-image: url("./assets/Photographe\ professionnel\ packshot\ et\ produits.png");
-                background-size: cover;
+                background-size: 140%;
                 background-position: center;
                 background-repeat: no-repeat;
                 height: 600px;
@@ -297,7 +297,7 @@ footer {
         }
         .imageE {
                 background-image: url("./assets/0O4A4148-2.jpg");
-                background-size: cover;
+                background-size: 140%;
                 background-position: center;
                 background-repeat: no-repeat;
                 height: 600px;
@@ -305,14 +305,14 @@ footer {
         }
         .imageG {
                 background-image: url("./assets/Rayban.jpg");
-                background-size: contain;
+                background-size: 130%;
                 background-position: center;
                 background-repeat: no-repeat;
                 height: 600px;
                 min-width: 100%;
         }
         .imageH {
-                background-image: url("./assets/photographe\ vaugneray\ lyon\ et\ région\ enfant\ et\ naissance.png");
+                background-image: url("./assets/Charly.png");
                 background-size: cover;
                 background-position: center;
                 background-repeat: no-repeat;

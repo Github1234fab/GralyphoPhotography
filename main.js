@@ -16,7 +16,7 @@ gsap.utils.toArray(".text").forEach((textBlock) => {
                                 trigger: textBlock,
                                 start: "top 100%",
                                 toggleActions: "play none none reverse",
-                                markers: true,
+                                // markers: true,
                         },
                 }
         );
