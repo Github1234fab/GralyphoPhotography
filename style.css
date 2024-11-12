@@ -255,7 +255,7 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-        .wrapper{
+        .wrapper {
                 min-width: 100%;
                 margin-top: 300px;
                 min-height: 100%;
@@ -263,71 +263,71 @@ footer {
         .content {
                 margin-top: 300px;
         }
-     .imageA {
-        background-image: url("./assets/Shooting\ LANA\ niveaux\ remonté\ .jpg");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        height: 600px;
-        min-width: 100%;
-}
-     .imageB {
-        background-image: url("./assets/book\ low-key.jpg");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        height: 600px;
-        min-width: 100%;
-}
-     .imageC {
-            background-image: url("./assets/VTT\ course.png");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        height: 600px;
-        min-width: 100%;
-}
-     .imageD {
-        background-image: url("./assets/Photographe\ professionnel\ packshot\ et\ produits.png");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        height: 600px;
-        min-width: 100%;
-}
-     .imageE {
-           background-image: url("./assets/0O4A4148-2.jpg");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        height: 600px;
-        min-width: 100%;
-}
-     .imageG {
-             background-image: url("./assets/Rayban.jpg");
-        background-size: contain;
-        background-position: center;
-        background-repeat: no-repeat;
-        height: 600px;
-        min-width: 100%;
-}
-     .imageH {
-        background-image: url("./assets/photographe\ vaugneray\ lyon\ et\ région\ enfant\ et\ naissance.png");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        height: 600px;
-        min-width: 100%;
-}
-     .imageI {
-             background-image: url("./assets/Amine\ Portrait\ IV.jpg");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        height: 600px;
-        min-width: 100%;
-}
-.text{
-        font-size: 2.5rem;
-}
+        .imageA {
+                background-image: url("./assets/Shooting\ LANA\ niveaux\ remonté\ .jpg");
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                height: 600px;
+                min-width: 100%;
+        }
+        .imageB {
+                background-image: url("./assets/book\ low-key.jpg");
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                height: 600px;
+                min-width: 100%;
+        }
+        .imageC {
+                background-image: url("./assets/VTT\ course.png");
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                height: 600px;
+                min-width: 100%;
+        }
+        .imageD {
+                background-image: url("./assets/Photographe\ professionnel\ packshot\ et\ produits.png");
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                height: 600px;
+                min-width: 100%;
+        }
+        .imageE {
+                background-image: url("./assets/0O4A4148-2.jpg");
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                height: 600px;
+                min-width: 100%;
+        }
+        .imageG {
+                background-image: url("./assets/Rayban.jpg");
+                background-size: contain;
+                background-position: center;
+                background-repeat: no-repeat;
+                height: 600px;
+                min-width: 100%;
+        }
+        .imageH {
+                background-image: url("./assets/photographe\ vaugneray\ lyon\ et\ région\ enfant\ et\ naissance.png");
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                height: 600px;
+                min-width: 100%;
+        }
+        .imageI {
+                background-image: url("./assets/Amine\ Portrait\ IV.jpg");
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                height: 600px;
+                min-width: 100%;
+        }
+        .text {
+                font-size: 2.5rem;
+        }
 }
