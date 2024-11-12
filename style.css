@@ -67,7 +67,7 @@ body html {
 
 /* =================================== */
 .imageA {
-        background-image: url("./assets/Shooting\ LANA\ niveaux\ remonté\ .jpg");
+        background-image: url("./assets/Lana.jpg");
         background-size: contain;
         background-position: center;
         background-repeat: no-repeat;
@@ -124,7 +124,7 @@ body html {
         min-width: 100%;
 }
 .imageH {
-        background-image: url("./assets/photographe\ vaugneray\ lyon\ et\ région\ enfant\ et\ naissance.png");
+        background-image: url("./assets/Charly.png");
         background-size: contain;
         background-position: center;
         background-repeat: no-repeat;
